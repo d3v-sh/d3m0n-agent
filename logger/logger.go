@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/d3v-sh/sec_agent/config"
+	"github.com/d3v-sh/d3m0n-agent/config"
 	_ "modernc.org/sqlite"
 )
 

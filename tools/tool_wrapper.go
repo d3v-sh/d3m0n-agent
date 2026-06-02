@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/d3v-sh/sec_agent/config"
-	"github.com/d3v-sh/sec_agent/logger"
+	"github.com/d3v-sh/d3m0n-agent/config"
+	"github.com/d3v-sh/d3m0n-agent/logger"
 )
 
 func RememberTarget(target, info string) {

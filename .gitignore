@@ -1,0 +1,8 @@
+.env
+config.yaml
+data/
+sessions/
+output/
+sec-agent
+*.exe
+google.txt

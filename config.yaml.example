@@ -1,0 +1,12 @@
+# config.yaml.example - copy this to config.yaml and fill in your values
+model: "anthropic/claude-3.5-haiku"
+base_url: "https://openrouter.ai/api/v1"
+api_key: "your-api-key-here"
+max_history: 20
+timeout: 300
+safe_mode: true
+allowed_paths:
+  - .
+  - ./output
+  - /tmp
+system_prompt: "You are a professional cybersecurity red team expert."

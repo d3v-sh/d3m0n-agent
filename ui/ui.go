@@ -94,7 +94,7 @@ func PrintHelp() {
 		{"/config", "Show current configuration"},
 		{"/report", "Generate pentest report"},
 		{"clear", "Clear screen and reset history"},
-		{"exit", "Quit sec-agent"},
+		{"exit", "Quit d3m0n"},
 	}
 
 	title := headerStyle.Render("Available Commands")

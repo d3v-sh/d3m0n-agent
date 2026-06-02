@@ -17,6 +17,14 @@
 ![AI](https://img.shields.io/badge/AI-OpenRouter%20%7C%20Local%20LLM-blueviolet?style=for-the-badge)
 ![Build](https://img.shields.io/github/actions/workflow/status/d3v-sh/d3m0n/build.yml?style=for-the-badge)
 
+## Preview
+
+<div align="center">
+  <img src="assets/screenshot1.png" width="800">
+  <img src="assets/screenshot2.png" width="800">
+  <img src="assets/screenshot3.png" width="800">
+</div>
+
 **A fully autonomous AI-powered cybersecurity agent built in Go.**
 Runs real tools. Returns real results. No simulated output.
 
